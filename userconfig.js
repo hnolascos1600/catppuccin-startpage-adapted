@@ -22,14 +22,14 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
+              name: "school",
+              url: "https://www.saes.upiicsa.ipn.mx/",
               icon: "droplet-bolt",
               icon_color: "#a6e3a1",
             },
             {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net/sixty",
+              name: "HTB Academy",
+              url: "https://academy.hackthebox.com/",
               icon: "binary-tree",
               icon_color: "#fab387",
             },
